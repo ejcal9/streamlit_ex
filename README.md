@@ -1,6 +1,3 @@
 # Welcome to Streamlit!
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire. :heart:
-
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+This app uses the Streamlit library to create a web application for a plant leaf detection system. The user can upload an image of a plant leaf, and the system will predict the plant species.
