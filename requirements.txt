@@ -1,4 +1,5 @@
 tensorflow==2.12
+pip install --upgrade pip
 pip==23.1.2 
 openCV==4.7.0.72
 streamlit
