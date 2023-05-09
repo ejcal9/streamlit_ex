@@ -1,6 +1,6 @@
 streamlit
 tensorflow==2.12
-opencv-python==4.7.0.72
+opencv-python
 opencv_contrib_python
 pip==23.1.2 
 
