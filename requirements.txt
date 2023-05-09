@@ -2,5 +2,6 @@ streamlit
 tensorflow
 opencv-python
 opencv_contrib_python
+libgl1
 
 
