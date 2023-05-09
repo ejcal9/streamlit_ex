@@ -1,4 +1,4 @@
 tensorflow==2.12
 pip==23.1.2 
-cv2
+openCV
 streamlit
