@@ -3,7 +3,7 @@ import tensorflow as tf
 
 @st.cache_resource
 def load_model():
-  model=tf.keras.models.load_model('image_classification.hdf5')
+  model=tf.keras.models.load_model('cifar10.hdf5')
   return model
 model=load_model()
 st.write("""
