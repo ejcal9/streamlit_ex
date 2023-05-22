@@ -27,6 +27,6 @@ else:
     image=Image.open(file)
     st.image(image,use_column_width=True)
     prediction=import_and_predict(image,model)
-    class_names=['dog','cat','rat','deer','horse','monkey']
+    class_names=['dog','deer','rat','deer','horse','bird','cat']
     string="OUTPUT : "+class_names[np.argmax(prediction)]
     st.success(string)
